@@ -14,8 +14,7 @@
 
 - _Display Flex_
 - _Display Grid_
-
-- _CSS Positions_
+- _Learned CSS Pseudo-classes Hover_
 - _Explored more about CSS Selectors_
 - _Learned Using Responsive Unit_
 - _Media Query_
